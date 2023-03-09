@@ -52,3 +52,6 @@ cinema项目是一套电影院会员管理系统，使用前后端分离架构�
 
 ## License
 [MIT](https://github.com/Advancedpawn2020/cinema/blob/master/LICENSE)
+
+项目原地址
+https://github.com/Advancedpawn2020/cinema
